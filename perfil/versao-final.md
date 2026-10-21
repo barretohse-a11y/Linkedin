@@ -30,7 +30,7 @@ What I bring to an offshore team:
 • Process safety & operational risk — PTW, SIMOPS, barrier management, HAZID/HAZOP
 • Emergency response — drills, contingency planning, calm decisions under pressure
 • Commissioning, startup & operational readiness — from shipyard to first oil
-• Planned production shutdowns — coordinating HSSE for multiple maintenance shutdowns, successfully executed
+• Planned production shutdowns — coordinated HSSE for 8 maintenance shutdowns across FPSOs, all successfully executed
 • Incident investigation — real root causes and actions that actually get closed
 • Compliance — Petrobras requirements, NRs, ANP and ISM Code
 • Onboard roles — Radiation Protection Lead Technician and Helicopter Landing Officer (HLO)
@@ -54,7 +54,7 @@ O que levo para uma equipe offshore:
 • Segurança de processo e risco operacional — PT, SIMOPS, gestão de barreiras, HAZID/HAZOP
 • Resposta a emergências — simulados, planos de contingência, decisão com calma sob pressão
 • Comissionamento, startup e prontidão operacional — do estaleiro ao primeiro óleo
-• Paradas programadas de produção — coordenação de HSSE em diversas paradas para manutenção, executadas com sucesso
+• Paradas programadas de produção — coordenação de HSSE em 8 paradas para manutenção em FPSOs, todas executadas com sucesso
 • Investigação de incidentes — causa raiz de verdade e ações que realmente são fechadas
 • Conformidade — requisitos Petrobras, NRs, ANP e ISM Code
 • Funções a bordo — Líder Técnico de Proteção Radiológica e HLO
@@ -104,8 +104,8 @@ Responsibilities:
   - Cargos: Offshore Installation Manager (OIM) · Offshore Operations Supervisor · Production Supervisor · HSSE Superintendent · HSE Lead Offshore
   - Locais: Brazil + Remote/International (adicionar Noruega, Reino Unido, Oriente Médio, Guiana, Angola etc. se tiver interesse)
   - Tipo: Full-time · Offshore/rotation
-- [ ] Adicionar o bullet de paradas de manutenção na(s) experiência(s) certa(s) (SBM e/ou Yinson — confirmar):
-  `• Coordinated HSSE activities during planned production shutdowns for maintenance, executed safely and successfully`
+- [ ] Adicionar o bullet de paradas nas experiências SBM/Yinson onde elas ocorreram (total na carreira: 8):
+  `• Coordinated HSSE activities during planned production shutdowns for maintenance — 8 shutdowns across FPSOs, all successfully executed`
 - [ ] Adicionar skill: **Shutdown & Turnaround Safety**
 - [ ] Experiência de vendas (2004–2008): reduzir a 1 linha ou remover
 - [ ] Zuhause (em PT): traduzir para EN no perfil principal (posso fazer)

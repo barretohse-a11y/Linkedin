@@ -30,7 +30,7 @@
 ## Principais resultados e conquistas (com números, se possível)
 - FPSO Maria Quitéria: responsável pelo HSSE de Pré-Operação durante construção e comissionamento na China e na navegação (sail-away) até o Brasil.
 - Suporte direto às auditorias e à aceitação de órgãos reguladores e do cliente — licenças obtidas antes do prazo estimado.
-- Coordenação de HSSE em diversas paradas programadas de produção para manutenção ao longo da carreira, com sucesso (unidades/quantidade: a confirmar).
+- Coordenação de HSSE em 8 paradas programadas de produção para manutenção, somando todos os FPSOs, todas com sucesso.
 - 15/10/2026: 2 anos do primeiro óleo sem acidentes com afastamento (resultado da equipe).
 
 ## Objetivo no LinkedIn

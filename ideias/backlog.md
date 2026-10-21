@@ -10,4 +10,4 @@
 - Um dia como HLO: o que acontece no convés antes do helicóptero pousar
 - Proteção radiológica a bordo de FPSO: o risco que pouca gente conhece
 - Escala de embarque e carreira: como continuar estudando (2 pós + engenharia) embarcado
-- Parada de manutenção em FPSO: como se planeja a segurança de dezenas de frentes de trabalho simultâneas em poucos dias
+- 8 paradas de produção depois: o que aprendi sobre segurança em parada de manutenção de FPSO — como se planeja a segurança de dezenas de frentes de trabalho simultâneas em poucos dias
