@@ -3,7 +3,7 @@
 > Preencha o que puder — o agente usa este arquivo como base para tudo.
 
 ## Quem sou
-- Nome:
+- Nome: Vinicius Barreto
 - Cargo atual / empresa:
 - Área / setor:
 - Anos de experiência:
@@ -38,3 +38,4 @@
 ### Sobre
 
 ### Link do perfil
+https://www.linkedin.com/in/vinicius-barreto-49988031
