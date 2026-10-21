@@ -1,6 +1,6 @@
 # Backlog de ideias
 
-- Da China ao Brasil: o que aprendi levando um FPSO do estaleiro ao first oil (sem dados confidenciais)
+- Da China ao Brasil: o que aprendi levando um FPSO do estaleiro ao first oil (sem dados confidenciais) — ✅ rascunho: 2 anos de primeiro óleo (2026-10-21)
 - De estagiário em canteiro de obra a supervisor offshore: 17 anos de segurança em 5 lições
 - Permissão de Trabalho não é papel: o que separa uma PT que protege de uma que só cumpre tabela
 - SIMOPS: por que o maior risco está na interface entre equipes, não na tarefa

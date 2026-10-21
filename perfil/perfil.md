@@ -1,13 +1,13 @@
 # Meu perfil
 
-> Base extraída do PDF do LinkedIn em 2026-10-21. Itens `[PREENCHER]` ainda precisam de resposta.
+> Base extraída do PDF do LinkedIn e respostas do Vinicius em 2026-10-21.
 
 ## Quem sou
 - Nome: Vinicius Barreto
-- Cargo atual / empresa: Safety Supervisor (no LinkedIn está "Safety Officer") — Yinson Production, FPSO Maria Quitéria (projeto Petrobras)
+- Cargo atual / empresa: Safety Officer (cargo oficial) — Yinson Production, FPSO Maria Quitéria (projeto Petrobras). Atua na liderança offshore, com apoio direto ao OIM.
 - Área / setor: HSSE offshore / Óleo & Gás — FPSO
 - Anos de experiência: 16+ em O&G (desde 2009 como técnico de segurança), 12+ em FPSO
-- Localização: Guarapari/ES (perfil) — contato indica Campos dos Goytacazes / Macaé/RJ `[CONFIRMAR]`
+- Localização: Guarapari/ES — aberto a trabalho offshore em todo o Brasil e no exterior
 
 ## Trajetória (resumo)
 - 2023–hoje: Yinson Production — FPSO Maria Quitéria: construção e comissionamento na China, startup e produção no Brasil. Parte da liderança offshore, apoio direto ao OIM. Também Líder Técnico de Proteção Radiológica, HLO, suporte CIPLAT/SESMT.
@@ -25,16 +25,19 @@
 - Pós em Engenharia e Gestão da Manutenção (Faculdade Líbano, 2023–2025)
 - Técnico em Segurança do Trabalho (Dinastia, 2007–2008)
 - NEBOSH IGC · IOSH Managing Safely · Process Safety Management · Técnico de Proteção Radiológica · Operador de Produção O&G
-- Idiomas: português (nativo), inglês `[NÍVEL?]`
+- Idiomas: português (nativo), inglês fluente (no LinkedIn: Full Professional Proficiency)
 
 ## Principais resultados e conquistas (com números, se possível)
-- `[PREENCHER]` ex.: dias/homem-hora sem acidente com afastamento, nº de simulados liderados, POB, auditorias sem não conformidade, reconhecimentos/prêmios
+- FPSO Maria Quitéria: responsável pelo HSSE de Pré-Operação durante construção e comissionamento na China e na navegação (sail-away) até o Brasil.
+- Suporte direto às auditorias e à aceitação de órgãos reguladores e do cliente — licenças obtidas antes do prazo estimado.
+- 15/10/2026: 2 anos do primeiro óleo sem acidentes com afastamento (resultado da equipe).
 
 ## Objetivo no LinkedIn
-- `[CONFIRMAR]` Hipótese: crescer para liderança operacional offshore (HSSE Lead / OIM track) e ter visibilidade no mercado nacional e internacional.
+- Crescer para **OIM (Offshore Installation Manager)**. Aberto a oportunidades offshore no Brasil e no exterior.
+- Implicação: posicionar como líder de **operações** offshore (não só de segurança), mostrando visão de produção, integração entre equipes e decisão sob pressão.
 
 ## Público-alvo
-- `[CONFIRMAR]` Hipótese: recrutadores e gestores de operadoras/afretadoras de FPSO (Petrobras, Shell, SBM, Yinson, MODEC, BW...), OIMs e profissionais de HSSE/operações offshore.
+- Recrutadores e gestores de operadoras/afretadoras de FPSO (Petrobras, Shell, SBM, Yinson, MODEC, BW...), OIMs, Offshore Managers e profissionais de operações/HSSE offshore, no Brasil e fora.
 
 ## Temas sobre os quais quero falar
 - Segurança de processo, PTW, SIMOPS, barreiras
